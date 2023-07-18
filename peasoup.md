@@ -6,4 +6,4 @@
 # Instruction
 
 - Bring water to boil
-
+- defrost peas
